@@ -1,2 +1,2 @@
 # mdt2sql
-A Golang SQL driver to (ab)use Mardown Tables.
+A Golang SQL driver to (ab)use Markdown Tables.
